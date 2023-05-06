@@ -9,10 +9,11 @@ section {
     
     p {
        color: green;
+       background: lightgray;
+
     }
     
     h3 {
-        
         font-size: 35px;
         color: darkgray;
         background: lightgray;
